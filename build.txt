@@ -1,0 +1,4 @@
+displayName = Coyote frames
+author = Gorffy, Ink of the Eternity, Litos the Litium
+version = 1.5
+includeSource = true
